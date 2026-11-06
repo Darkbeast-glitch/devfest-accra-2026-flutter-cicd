@@ -50,7 +50,7 @@ class WelcomeScreen extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'From Code to Testers 🚀',
+                            'Nicholas is great boy 🚀',
                             style: TextStyle(
                               color: Color(0xFF0F172A),
                               fontSize: 18,
